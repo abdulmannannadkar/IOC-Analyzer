@@ -1,2 +1,12 @@
 # IOC-Analyzer
-IOC validates integrated with VirusTotal
+IOC validater integrated with VirusTotal.
+
+The tool contains 3 modules:
+1) Hash checker
+2) Domain checker
+3) IP checker
+
+
+
+
+
